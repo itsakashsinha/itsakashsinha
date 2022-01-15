@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @itsakashsinha
 - 👀 I’m interested in development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning web development
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me insta- https://www.instagram.com/its_akashsinha/
 
 <!---
