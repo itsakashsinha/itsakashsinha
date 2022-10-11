@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @itsakashsinha
-- 👀 I’m interested in development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web development
+- Loves to mess with codes :)
+- On the way to full stack
 - 📫 Insta- https://www.instagram.com/its_akashsinha/
 - LinkedIn - https://www.linkedin.com/in/akash-sinha-126a61222/
 
